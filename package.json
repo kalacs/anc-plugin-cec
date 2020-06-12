@@ -6,5 +6,9 @@
   "repository": "git@github.com:kalacs/anc-plugin-cec.git",
   "author": "Zoltan Kakuk <sz.zoltan.kakuk@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "cec-controller": "^1.4.0",
+    "debug": "^4.1.1"
+  }
 }
