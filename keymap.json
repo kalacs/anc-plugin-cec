@@ -1,0 +1,12 @@
+{
+  "up": "Up",
+  "down": "Down",
+  "left": "Left",
+  "right": "Right",
+  "select": "Enter",
+  "exit": "BackSpace",
+  "red": "F1",
+  "green": "F2",
+  "yellow": "F3",
+  "blue": "F4"
+}
