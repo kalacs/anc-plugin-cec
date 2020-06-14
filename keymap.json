@@ -3,10 +3,10 @@
   "down": "Down",
   "left": "Left",
   "right": "Right",
-  "select": "Enter",
+  "select": "Return",
   "exit": "BackSpace",
-  "red": "F1",
-  "green": "F2",
-  "yellow": "F3",
-  "blue": "F4"
+  "red": "1",
+  "green": "2",
+  "yellow": "3",
+  "blue": "4"
 }
