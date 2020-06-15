@@ -1,0 +1,16 @@
+[Unit]
+Description=HDMI CEC service
+
+[Service]
+Environment="DISPLAY=:0.0"
+Environment="DEBUG=anc-plugin-cec"
+ExecStart=node index.js
+WorkingDirectory={PATH}
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+RestartSec=5
+User=pi
+
+[Install]
+WantedBy=multi-user.target
