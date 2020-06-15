@@ -16,3 +16,7 @@ Use cec-controller to read keys from remote control and send key presses with xd
 
 - [cec-client](https://command-not-found.com/cec-client)
 - [xdotool](https://command-not-found.com/xdotool)
+
+## Use as a service
+
+To install `cec.service` run `sudo make install`. If you want to uninstall service run `sudo make uninstall`
