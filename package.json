@@ -1,6 +1,6 @@
 {
   "name": "anc-plugin-cec",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "HDMI CEC plugin for ANC",
   "main": "index.js",
   "repository": "git@github.com:kalacs/anc-plugin-cec.git",
